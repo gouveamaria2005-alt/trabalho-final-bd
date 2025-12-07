@@ -1,4 +1,3 @@
-
 CREATE TABLE lojas (
     id_loja INT PRIMARY KEY,
     nome VARCHAR(120),

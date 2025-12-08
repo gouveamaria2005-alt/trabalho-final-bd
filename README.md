@@ -34,7 +34,7 @@ A modelagem física consiste na implementação real do banco de dados no Postgr
 - Criação das tabelas com tipos de dados corretos  
 - Definição de chaves primárias e estrangeiras  
 - Restrições de integridade  
-
+**arquivo sql**
 ---
 
 ## 📊 Dados
